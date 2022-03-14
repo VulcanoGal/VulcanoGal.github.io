@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/martinrodriguez
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vulcanogal.github.io
+  * I am martinrodriguez (https://keybase.io/martinrodriguez) on keybase.
+  * I have a public key with fingerprint 21BD D756 5556 C488 5A09  4629 2CEF 2672 5C32 2DD6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e6c530f39e4b2e7a3bd7f19fb87ce2786260c52cc54b3206f6b926125b9ce66d0a",
+      "fingerprint": "21bdd7565556c4885a0946292cef26725c322dd6",
+      "host": "keybase.io",
+      "key_id": "2cef26725c322dd6",
+      "kid": "0101e6c530f39e4b2e7a3bd7f19fb87ce2786260c52cc54b3206f6b926125b9ce66d0a",
+      "uid": "072c5863e25a3ee5741a796ca4c82c19",
+      "username": "martinrodriguez"
+    },
+    "service": {
+      "hostname": "vulcanogal.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1647269719,
+  "expire_in": 157680000,
+  "prev": "078ea3c7eba41588526487d7b3eae3c469dc3ec4fe1ab5299c1a493d05b7ce10",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMI6AnicrVJbSBRRGF7TbnazgsoopTGTbLOZM3POzCxRSA+6UmFKiRBs55w5uzu2
+zuzOznpFoqILGIUPUkQiRVnQhUgxQ4huFBEY9dJlszILoitdfdFqRu2tx87L4Zzz
+fd//ff/5b81I9aSn9OQnH87vxELKvesdCQ9ZVVHRyBFTq+d8jdx2NrqxiMbidmC7
+rnE+jhd4gSEKRT4oqkwigMlYJJocFNQgUWTKgKwggHgKAaVQIiLgURARFSABQKJS
+hpDGY87LBXUjxKyopRu2IwsEomkyRBBCRCVFgZhXJQRUQFkQIBlAKgKgacghhs24
+y3DMERxnBbrp3DmHwKi9f+D/s+/EmJwMKFSQyADEImNQlgQsq4hiiSqACqoLjDPL
+wNXMQVdjy9YNy9QsPZRgDVyTl3Mea3TK3P66gcaBNYkIxYYZwpGCkG6HE2QsXtQy
+bZOaEQcRtu1o3Ocq2PVRl1LLSGBcLEB0Q3Pa6jBqmBXXTYPzCQ6S2rqrLiBJBkiV
+BdXLsbqobrGA7iKgjBTeWW4dVjMaTmFYpDIjWBKg8xkASYqsyURkmIlUQqpGRUal
+IBMwgUBVqYAlVdR4SJxGCjznxosZJudTHJs45EjG9ZCB7YTFuKYb17ameVLSPZMm
+TnDHzZM+NePvEPZdnOI513797f2jyzL2b9s0u3hgV+al94N1p06uXVN9tyPvY6Wc
++rrt6r4t1+YUNQ4cO9Sy7fSDwoJFzaUZj3e2xlJvVU7IyRq+r09/+a2pe4l0urPv
+e1XXsSMbdmftfXMz73FbboW/11uYtjj7S8Gn2HDr52RzeH65P3cWf7Yzp2ftnSex
+Az+L/Naly8srk78+TGpvbnk3cyhr8tOh2u78aMez9uSOGVMaj3c+742cr9o50j/v
+Rfmj7D19/V/Db4WZmVnDF8tWLlyh9o2U/Fjx6gr3e93k94M3Dlv9t19sVO+eKe3x
+7D1zsEqqOLB7AbqQk+ePlXQ05C89UVs87WrXiN8qa05Zb65etnlu7x+OiUVe
+=skRm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/martinrodriguez
+
+==================================================================
